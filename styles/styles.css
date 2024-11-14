@@ -1,0 +1,16 @@
+.card{
+    background-color: #eee;
+    margin : 10px;
+}
+
+.title{
+    text-align: auto;
+    margin : 10px;
+    
+}
+
+#slct_empresa{
+    margin : 10px;
+    width: 30%;
+    text-align: center;
+}
